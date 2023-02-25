@@ -24,3 +24,9 @@ body{
     align-items: center;
     justify-content: center;
 }
+
+.submit-btn{
+    width: 10%;
+    border-radius: 10px;
+    justify-content: center;
+}
