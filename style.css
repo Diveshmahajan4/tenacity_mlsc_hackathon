@@ -4,6 +4,17 @@ body{
     
 }
 
+.main-body{
+    margin: 50px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: antiquewhite;
+}
+
 .prompt{
     
+}
+
+.image-grid{
+
 }
