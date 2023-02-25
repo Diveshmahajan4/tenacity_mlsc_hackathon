@@ -1,5 +1,6 @@
 const express = require("express");
 const fetch = require('node-fetch');
+// const imgEl = document.querySelector(".img-one");
 
 const app = express();
 app.use(express.static("public"));
@@ -49,5 +50,5 @@ app.post("/", async function (req, res) {
 });
 
 app.listen(3000, function () {
-  console.log("Server is Running on port 3000")
+  console.log("Server is Running on port 3000")
 })

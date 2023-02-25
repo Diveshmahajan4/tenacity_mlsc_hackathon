@@ -4,17 +4,23 @@ body{
     
 }
 
+.navbar{
+    background-color: #0021a3 !important;
+    color: black !important;
+}
+
 .main-body{
     margin: 50px;
     padding: 20px;
     border-radius: 10px;
-    background-color: antiquewhite;
+    background-color: #E5E0FF;
 }
 
-.prompt{
-    
+.btn{
+    width: 10%;
 }
 
-.image-grid{
-
+.row{
+    align-items: center;
+    justify-content: center;
 }
