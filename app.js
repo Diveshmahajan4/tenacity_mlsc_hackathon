@@ -1,6 +1,5 @@
 const express = require("express");
 const fetch = require('node-fetch');
-// const imgEl = document.querySelector(".img-one");
 
 const app = express();
 app.use(express.static("public"));
