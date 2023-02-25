@@ -24,3 +24,18 @@ body{
     align-items: center;
     justify-content: center;
 }
+
+.image-grid{
+    border-radius: 10%;
+    background-color: #E5E0FF;
+}
+
+.image-recieved{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    width: 300px;
+    border-radius: 10%;
+    border: 4px solid black;
+}
