@@ -24,7 +24,7 @@ const brandNameEl = req.body.brandName;
 const featureEl = req.body.feature;
 const domainEl = req.body.domain;
 
-var prompt = "Advertisement of " + brandNameEl + " with this " + featureEl + " in the this domain " + domainEl;
+var prompt = "Image of Allah";
 
 const options = {
   method: 'POST',
